@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Alice", "birthday": "2000-01-01", "sex": "F", "room": 1},
+  {"id": 2, "name": "Bob", "birthday": "2000-01-01", "sex": "M", "room": 1},
+  {"id": 3, "name": "Charlie", "birthday": "2004-01-01", "sex": "M", "room": 2}
+]

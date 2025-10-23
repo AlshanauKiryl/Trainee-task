@@ -1,0 +1,5 @@
+[
+  {"birthday": "2000-01-15T00:00:00.000Z", "id": 1, "name": "Student 1", "room": 1, "sex": "M"},
+  {"birthday": "2002-03-20T00:00:00.000Z", "id": 2, "name": "Student 2", "room": 1, "sex": "F"},
+  {"birthday": "2003-05-10T00:00:00.000Z", "id": 3, "name": "Student 3", "room": 2, "sex": "M"}
+]
